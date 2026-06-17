@@ -1,7 +1,7 @@
 ### About me
 - 🎓 Applied Computer Science student at AGH University of Science and Technology.
-- 💡 Upcoming [CERN](https://home.cern/) Summer Student in 2026
-- 💻 C++ Backend Developer @ [digatus](https://digatus.com/en/)
+- 💡 2026 Summer Student @ [CERN](https://home.cern/)
+- 💻 Previously worked as: C++ Developer @ [digatus](https://digatus.com/en/)
 - 💡 Former Summer Intern @ [Paul Scherrer Institute](https://www.psi.ch/en)
 - 👨‍🏫 President of [KERNEL Computer Science Student Group](https://www.facebook.com/KNIKernel/)
 - 💻 Mainly programming in **C**, **C++**, **CUDA** and **Python**.
@@ -17,7 +17,6 @@
 | [hpc-diy](https://github.com/open-atmos-krk/hpc-diy) | DIY computing cluster assembled and programmed by our **open-atmos-krk** team at AGH, comprised of Raspberry Pi 5 and Jetson Nanos |
 | [RADMONQA](https://github.com/RADMONQA) | Supporting analysis of space radiation data from the IREM and RADEM detectors in ESA's INTEGRAL and JUICE mission at **PSI** |
 | [PyPartMC](https://github.com/open-atmos/PyPartMC) | Python interface to [PartMC](https://lagrange.mechse.illinois.edu/partmc/), a particle-resolved Monte-Carlo code for atmospheric aerosol simulation |
-| [numba-mpi](https://github.com/numba-mpi/numba-mpi) | Python wrappers to the C MPI API callable from within Numba JIT-compiled code |
 
 ### Personal projects:
 |**Project**|**Description**|
