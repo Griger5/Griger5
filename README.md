@@ -1,14 +1,15 @@
 ### About me
 - 🎓 Applied Computer Science student at AGH University of Science and Technology.
-- 💡 2026 Summer Student @ [CERN](https://home.cern/)
+- 🚀 HPC Engineer @ [CoreWeave](https://www.coreweave.com/)
+- ⚛️ 2026 Summer Student @ [CERN](https://home.cern/)
+- 💡 2025 Summer Intern @ [Paul Scherrer Institute](https://www.psi.ch/en)
 - 💻 Previously worked as: C++ Developer @ [digatus](https://digatus.com/en/)
-- 💡 Former Summer Intern @ [Paul Scherrer Institute](https://www.psi.ch/en)
-- 👨‍🏫 President of [KERNEL Computer Science Student Group](https://www.facebook.com/KNIKernel/)
+- 👨‍🏫 Former President of [KERNEL Computer Science Student Group](https://www.facebook.com/KNIKernel/)
 - 💻 Mainly programming in **C**, **C++**, **CUDA** and **Python**.
 - 📚 Interested in: High-Performance Computing, Low-Latency Systems.
 
 ### Links
-[LinkedIn](https://www.linkedin.com/in/gracjan-adamus/) • [Lignit Foundation](https://lignit.org/) • [open-atmos-krk](https://open-atmos-krk.github.io/)
+[Site](https://talpasoft.com/) • [LinkedIn](https://www.linkedin.com/in/gracjan-adamus/) • [Lignit Foundation](https://lignit.org/) • [open-atmos-krk](https://open-atmos-krk.github.io/)
 
 ### Projects I maintain or contribute to:
 |**Project**|**Description**|
